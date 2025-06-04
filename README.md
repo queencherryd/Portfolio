@@ -39,7 +39,7 @@ Hi! I'm **Davida Otokhine**, an international student at the University of New B
 
 ## 📸 Preview
 
-![screenshot](portrate10.jpg)
+![screenshot](Screenshot 2025-06-04 165911.png)
 
 ---
 
