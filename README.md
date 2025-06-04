@@ -33,7 +33,7 @@ Hi! I'm **Davida Otokhine**, an international student at the University of New B
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- [Boxicons](https://boxicons.com/) and [Font Awesome](https://fontawesome.com/) for icons
+- [Boxicons](https://boxicons.com/) for icons
 
 ---
 
